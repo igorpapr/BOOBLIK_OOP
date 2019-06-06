@@ -6,3 +6,5 @@ Debug/*
 *.filters
 *.user
 *.sln.DotSettings.user
+*.sdf
+*.v11.suo

@@ -1,0 +1,4 @@
+Created: Triangle: {(1, 1) (1, 2) (2, 1)}
+Created: Triangle: {(0, 0) (0, 3) (3, 0)}
+Copied: Triangle: {(1, 1) (1, 2) (2, 1)}
+N calls 43

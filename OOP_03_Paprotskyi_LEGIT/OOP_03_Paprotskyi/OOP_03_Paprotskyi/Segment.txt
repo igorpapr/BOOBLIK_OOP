@@ -1,0 +1,29 @@
+Segment 1 was created: [(1, 2) <-> (2, 1)]
+Segment 2 was created: [(1, 1) <-> (1.5, 1.5)]
+Segment 3 was created: [(2, 1) <-> (1, 1)]
+Segment 4 was created: [(1, 2) <-> (1, 1)]
+Segment 5 was created: [(1, 1) <-> (1, 2)]
+Segment 6 was created: [(2, 1) <-> (1, 1)]
+Segment 7 was created: [(0, 3) <-> (3, 0)]
+Segment 8 was created: [(0, 0) <-> (1.5, 1.5)]
+Segment 9 was created: [(3, 0) <-> (0, 0)]
+Segment 10 was created: [(0, 0) <-> (0, 3)]
+Segment 10 was deleted
+Segment 7 was deleted
+Segment 9 was deleted
+Segment 8 was deleted
+Segment 11 was created: [(1, 2) <-> (2, 1)]
+Segment 12 was created: [(2, 1) <-> (1, 1)]
+Segment 13 was created: [(1, 1) <-> (1, 2)]
+Segment 14 was created: [(1, 1) <-> (1.5, 1.5)]
+N calls 133 Total amount of created Segments 14
+Segment 13 was deleted
+Segment 11 was deleted
+Segment 12 was deleted
+Segment 14 was deleted
+Segment 5 was deleted
+Segment 1 was deleted
+Segment 3 was deleted
+Segment 2 was deleted
+Segment 4 was deleted
+Segment 6 was deleted
